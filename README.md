@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erratical
-- 👀 I’m interested in reaching my goals.
+- 👀 I’m interested in data science and software engineering.
 - 🌱 I’m currently learning app development, Java, Python, and machine learning!
 - 💞️ I’m looking to collaborate on application development and other softwares.
 
