@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erratical
-- 👀 I’m interested in data science and software engineering.
-- 🌱 I’m currently learning app development, Java, Python, and machine learning!
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning C, web development, and Java.
 - 💞️ I’m looking to collaborate on application development and other softwares.
 
 
