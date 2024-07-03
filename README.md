@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erratical
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning C, web development, and Java.
-- 💞️ I’m looking to collaborate on application development and other softwares.
+- 💞️ I’m looking to collaborate on C-related development and other softwares.
 
 
 <!---
