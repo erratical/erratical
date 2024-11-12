@@ -3,6 +3,7 @@
 - 🔍 I’m enthusiastic about tackling real-world problems through practical software solutions.
 - 💼 Experience includes front-end and back-end development, data collection, and analytics, with a recent focus on Next.js, Prisma, and IoT projects.
 - 💞️ Open to collaborations on C-related development, web apps, and data-driven projects. Excited to connect and create!
+- Check out my projects below!
 
 
 <!---
