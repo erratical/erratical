@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @erratical
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C, web development, and Java.
-- 💞️ I’m looking to collaborate on C-related development and other softwares.
+👋 Hi there! I’m @erratical, a Computer Science undergrad with a passion for data science and software development.
+🌱 Currently diving deeper into C, web development, and Java.
+🔍 I’m enthusiastic about tackling real-world problems through practical software solutions.
+💼 Experience includes front-end and back-end development, data collection, and analytics, with a recent focus on Next.js, Prisma, and IoT projects.
+💞️ Open to collaborations on C-related development, web apps, and data-driven projects. Excited to connect and create!
 
 
 <!---
